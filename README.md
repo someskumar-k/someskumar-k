@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **someskumar.kumarasamy@gmail.com**
 
-- 📄 Know about my experiences [https://file.notion.so/f/f/acf73f5e-f1e0-469d-b3b1-16423ceffdfb/480f38b8-5140-421f-a1dc-c50eba27bfbe/someskumar_kumarasamy_resume_2024.pdf?table=block&id=b073fc22-713c-4d0f-b48b-cfbd4dbdddf0&spaceId=acf73f5e-f1e0-469d-b3b1-16423ceffdfb&expirationTimestamp=1723651200000&signature=eKZu5bvgaQIY4FlEVLNQrphREXXuROLXLwKNdIYAWiQ&downloadName=someskumar_kumarasamy_resume_2024.pdf](https://file.notion.so/f/f/acf73f5e-f1e0-469d-b3b1-16423ceffdfb/480f38b8-5140-421f-a1dc-c50eba27bfbe/someskumar_kumarasamy_resume_2024.pdf?table=block&id=b073fc22-713c-4d0f-b48b-cfbd4dbdddf0&spaceId=acf73f5e-f1e0-469d-b3b1-16423ceffdfb&expirationTimestamp=1723651200000&signature=eKZu5bvgaQIY4FlEVLNQrphREXXuROLXLwKNdIYAWiQ&downloadName=someskumar_kumarasamy_resume_2024.pdf)
+- 📄 Know about my experiences [https://tinyurl.com/skk-portfolio](link)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
