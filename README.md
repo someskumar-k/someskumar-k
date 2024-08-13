@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=someskumar-k&label=Profile%20views&color=0e75b6&style=flat" alt="someskumar-k" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=someskumar-k" alt="someskumar-k" /></a> </p>
-
 - 💬 Ask me about **java, spring-boot.**
 
 - 📫 How to reach me **someskumar.kumarasamy@gmail.com**
