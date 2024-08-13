@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **java, spring-boot.**
 
-- 📫 How to reach me **someskumar.kumarasamy@gmail.com**
-
 - 📄 Know about my experiences [https://tinyurl.com/skk-portfolio](link)
 
 ### Blogs posts
