@@ -13,5 +13,7 @@
 ![](https://wakatime.com/share/@e4808408-c312-410a-a3ed-bcc8d3dc3007/7c613bf9-6ca8-4303-b5e6-ee7a247a0c8a.svg)
 
 # Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
+<!--START_SECTION:feed-->
+
+<!--END_SECTION:feed-->
