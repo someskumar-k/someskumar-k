@@ -7,13 +7,10 @@ permissions:
   contents: write # To write the generated contents to the readme
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Pull in substack posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+      - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed_list: "https://bitsofthought.substack.com/feed/"
+            feed-url: https://bitsofthought.substack.com/feed
+            template: "> {{ excerpt }}\n\n[Read more!]({{ url }})"
