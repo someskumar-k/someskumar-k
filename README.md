@@ -1,4 +1,5 @@
 
+<iframe src="https://bitsofthought.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/somes-kumar-k/) 
 
@@ -11,6 +12,6 @@
 ![](https://wakatime.com/share/@e4808408-c312-410a-a3ed-bcc8d3dc3007/7c613bf9-6ca8-4303-b5e6-ee7a247a0c8a.svg)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=someskumar-k&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
