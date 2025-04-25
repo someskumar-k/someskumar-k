@@ -1,16 +1,1 @@
-name: Latest blog post workflow
-on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
-permissions:
-  contents: write # To write the generated contents to the readme
 
-jobs:
-  update:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: JasonEtco/rss-to-readme@v1
-        with:
-            feed-url: https://bitsofthought.substack.com/feed
-            template: "> {{ excerpt }}\n\n[Read more!]({{ url }})"
