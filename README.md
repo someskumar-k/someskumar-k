@@ -1,6 +1,7 @@
 
-<iframe src="https://bitsofthought.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+
 ## 🌐 Socials:
+[![Substack](https://img.shields.io/badge/Substack-orange)](https://bitsofthought.substack.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/somes-kumar-k/) 
 
 # 💻 Tech Stack:
