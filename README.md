@@ -1,5 +1,6 @@
+![](https://wakatime.com/share/@e4808408-c312-410a-a3ed-bcc8d3dc3007/4bef4d67-23c4-4e8d-986f-e28731226400.svg)
 
-
+---
 ## 🌐 Socials:
 [![Substack](https://img.shields.io/badge/Substack-orange)](https://bitsofthought.substack.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/somes-kumar-k/) 
